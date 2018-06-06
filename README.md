@@ -1,6 +1,8 @@
 # gan_and_tsne
 
-How to check GAN's generator ability? we can check our model by using t-SNE!
+How to check GAN's generator ability? 
+
+I think, we can check our generator model by using t-SNE!
 
 First, split MNIST file
 
