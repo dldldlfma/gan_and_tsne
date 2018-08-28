@@ -12,4 +12,4 @@ Third, train CNN model for MNIST
 
 Fourth, check generated image with real image using t-sne
 
-fifth, check CNN feature map of generated image and real image using t-sne
+Fifth, check CNN feature map of generated image and real image using t-sne
